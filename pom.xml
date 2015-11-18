@@ -32,8 +32,8 @@
     </dependencies>
 
     <scm>
-        <connection>scm:git:https://github.com/onigoetz/cldr-bridge.git</connection>
-        <developerConnection>scm:git:https://github.com/onigoetz/cldr-bridge.git</developerConnection>
-        <url>scm:git:https://github.com/onigoetz/cldr-bridge</url>
+        <connection>scm:git:https://github.com/st-js/cldr-bridge.git</connection>
+        <developerConnection>scm:git:https://github.com/st-js/cldr-bridge.git</developerConnection>
+        <url>scm:git:https://github.com/st-js/cldr-bridge</url>
     </scm>
 </project>
