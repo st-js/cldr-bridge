@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>cldr</artifactId>
-    <version>0.4.3.bv1</version>
+    <version>0.4.3.bv2-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>Strongly-typed JS - CLDR Bridge library</name>
 
@@ -35,6 +35,6 @@
         <connection>scm:git:https://github.com/st-js/cldr-bridge.git</connection>
         <developerConnection>scm:git:https://github.com/st-js/cldr-bridge.git</developerConnection>
         <url>scm:git:https://github.com/st-js/cldr-bridge</url>
-      <tag>cldr-0.4.3.bv1</tag>
+      <tag>HEAD</tag>
   </scm>
 </project>
